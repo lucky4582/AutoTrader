@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [test.com.Priceline2TestNGTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="test.com.Priceline2TestNGTest">
+        <methods>
+          <include name="tearDownClass"/>
+          <include name="setUpClass"/>
+          <include name="setUpMethod"/>
+          <include name="tearDownMethod"/>
+          <include name="priceline2"/>
+        </methods>
+      </class> <!-- test.com.Priceline2TestNGTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [test.com.Priceline2TestNGTest] -->

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: test.com.SellCar
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 18.904 sec <<< FAILURE!
+fillform(test.com.SellCar)  Time elapsed: 17.79 sec  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: Cannot locate element with text: BMW
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'HARE-KRISHNA', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:151)
+	at test.com.SellCar.fillform(SellCar.java:50)

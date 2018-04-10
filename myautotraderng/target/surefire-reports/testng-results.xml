@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.com.AutoTest" duration-ms="57716" started-at="2018-04-10T18:13:02Z" finished-at="2018-04-10T18:14:00Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="57716" started-at="2018-04-10T18:13:02Z" finished-at="2018-04-10T18:14:00Z">
+      <class name="test.com.AutoTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:test.com.AutoTest@511baa65]" name="setUpClass" is-config="true" duration-ms="20" started-at="2018-04-10T13:13:02Z" finished-at="2018-04-10T13:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.AutoTest@511baa65]" name="setUpMethod" is-config="true" duration-ms="2" started-at="2018-04-10T13:13:02Z" finished-at="2018-04-10T13:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="fillForm()[pri:0, instance:test.com.AutoTest@511baa65]" name="fillForm" duration-ms="57668" started-at="2018-04-10T13:13:02Z" finished-at="2018-04-10T13:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillForm -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.AutoTest@511baa65]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2018-04-10T13:14:00Z" finished-at="2018-04-10T13:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testadd()[pri:0, instance:test.com.AutoTest@511baa65]" name="testadd" duration-ms="6" started-at="2018-04-10T13:14:00Z" finished-at="2018-04-10T13:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testadd -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.AutoTest@511baa65]" name="setUpMethod" is-config="true" duration-ms="0" started-at="2018-04-10T13:14:00Z" finished-at="2018-04-10T13:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.AutoTest@511baa65]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2018-04-10T13:14:00Z" finished-at="2018-04-10T13:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:test.com.AutoTest@511baa65]" name="setUpMethod" is-config="true" duration-ms="1" started-at="2018-04-10T13:14:00Z" finished-at="2018-04-10T13:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:test.com.AutoTest@511baa65]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2018-04-10T13:14:00Z" finished-at="2018-04-10T13:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="testmul()[pri:0, instance:test.com.AutoTest@511baa65]" name="testmul" duration-ms="0" started-at="2018-04-10T13:14:00Z" finished-at="2018-04-10T13:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmul -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:test.com.AutoTest@511baa65]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2018-04-10T13:14:00Z" finished-at="2018-04-10T13:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- test.com.AutoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.com.AutoTest -->
+</testng-results>
